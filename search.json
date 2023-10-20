@@ -11,7 +11,7 @@
     "href": "topics/when-to-use-azure-active-directory.html",
     "title": "When to use Azure Active Directory?",
     "section": "",
-    "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory?\nAzure AD is the Azure solution for identity and access management. Azure AD is a multitenant, cloud-based directory, and identity management service.\n\n\n\nAzure Active Directory.\n\n\n\nCentralize identity management.\nestablish a single Azure AD instance.\nUse Azure AD Connect, or AD Connect cloud sync for hybrid identity sync."
+    "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory?\nAzure AD is the Azure solution for identity and access management. Azure AD is a multitenant, cloud-based directory, and identity management service.\n\n\n\nAzure Active Directory.\n\n\n\nCentralize identity management.\nEstablish a single Azure AD instance.\nUse Azure AD Connect, or AD Connect cloud sync for hybrid identity sync."
   },
   {
     "objectID": "topics/what-is-identity-and-access-management.html",
