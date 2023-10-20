@@ -8,3 +8,9 @@ Source: [Authentication and Authorization](https://microsoftlearning.github.io/A
 # What is Identity and Access Management?
 
 ![identity and Access Management.](../images/identity-and-access-management.png)
+
+|If you need this|Use this|
+|--|--|
+|Provide identity and access management for employees in a cloud or hybrid environment.|Azure Active Directory (Azure AD)|
+|Collaoborate with guest users and external business partners like suppliers and vendors.|Azure AD Business to Business (B2B)|
+|Control how customers sign up, sign in, and manage their profiles when they use your applications.|Azure AD Business to Consumer (B2C)|
