@@ -19,7 +19,9 @@ website:
         - text: "---"
         - topics.qmd        
         - text: "---"
-        - topics/follow-the-zero-trust-guidelines.qmd       
+        - topics/follow-the-zero-trust-guidelines.qmd
+        - text: "---"
+        - topics/identity-and-access-management.qmd        
 format:
   html:
     theme: cosmo
