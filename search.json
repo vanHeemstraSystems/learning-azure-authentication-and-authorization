@@ -42,6 +42,13 @@
     "text": "Source: Authentication and Authorization\n\nFollow the Zero Trust Guidelines\n\n\n\nZero Trust Guidelines."
   },
   {
+    "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
+    "href": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
+    "title": "Compare Azure AD Business to Consumer to Business to Business",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nCompare Azure AD Business to Consumer to Business to Business\n\n\n\nCompare Azure AD B2C to B2B.\n\n\n\n\n\nAzure AD B2C\nAzure AD B2B\n\n\n\n\n-\nCustomers cannot be viewed by others.\n\n\nUsers are managed in a separate Azure AD directory.\n-\n\n\nUsers need to be able to self-signup for accounts.\n-\n\n\nUsers manage their own profiles.\n-\n\n\nUsers can come from SAML and WS-Fed based identity providers."
+  },
+  {
     "objectID": "topics/when-to-use-azure-active-directory-business-to-consumer.html",
     "href": "topics/when-to-use-azure-active-directory-business-to-consumer.html",
     "title": "When to use Azure Active Directory (AD) Business to Consumer (B2C)?",
