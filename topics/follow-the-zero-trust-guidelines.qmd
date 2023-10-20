@@ -1,3 +1,10 @@
 ---
 title: "Follow the Zero Trust Guidelines"
+css: ../styles.css
 ---
+
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# Follow the Zero Trust Guidelines
+
+![Zero Trust Guidelines.](../images/zero-trust-guidelines.png)
