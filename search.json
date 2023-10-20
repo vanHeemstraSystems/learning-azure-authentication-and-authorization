@@ -35,6 +35,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "topics/when-to-use-azure-active-directory-business-to-business.html",
+    "href": "topics/when-to-use-azure-active-directory-business-to-business.html",
+    "title": "When to use Azure Active Directory (AD) Business to Business (B2B)?",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory (AD) Business to Business (B2B)?\nAzure AD B2B enables you to securely collaborate with external parties.\n\n\n\nAzure Active Directory Business to Business.\n\n\n\nIntegrate with identity providers.\nuse conditional access policies to intelligently grant or deny access.\nRequire Multi-Factor Authentication (MFA) for guest users."
+  },
+  {
     "objectID": "topics/when-to-use-azure-active-directory-business-to-consumer.html",
     "href": "topics/when-to-use-azure-active-directory-business-to-consumer.html",
     "title": "When to use Azure Active Directory (AD) Business to Consumer (B2C)?",
