@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/index.html</loc>
-    <lastmod>2023-10-20T14:04:11.122Z</lastmod>
+    <lastmod>2023-10-20T14:04:50.190Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/what-is-identity-and-access-management.html</loc>
-    <lastmod>2023-10-20T14:04:10.586Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-azure-active-directory.html</loc>
+    <lastmod>2023-10-20T14:04:49.574Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/follow-the-zero-trust-guidelines.html</loc>
-    <lastmod>2023-10-20T14:04:09.986Z</lastmod>
+    <lastmod>2023-10-20T14:04:48.890Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/about.html</loc>
-    <lastmod>2023-10-20T14:04:09.082Z</lastmod>
+    <lastmod>2023-10-20T14:04:47.910Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics.html</loc>
-    <lastmod>2023-10-20T14:04:09.698Z</lastmod>
+    <lastmod>2023-10-20T14:04:48.570Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/privileged-identity-management.html</loc>
-    <lastmod>2023-10-20T14:04:10.286Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/what-is-identity-and-access-management.html</loc>
+    <lastmod>2023-10-20T14:04:49.242Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/SUMMARY.html</loc>
-    <lastmod>2023-10-20T14:04:10.858Z</lastmod>
+    <lastmod>2023-10-20T14:04:49.882Z</lastmod>
   </url>
 </urlset>
