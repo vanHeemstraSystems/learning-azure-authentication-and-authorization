@@ -21,7 +21,9 @@ website:
         - text: "---"
         - topics/follow-the-zero-trust-guidelines.qmd
         - text: "---"
-        - topics/what-is-identity-and-access-management.qmd        
+        - topics/what-is-identity-and-access-management.qmd
+        - text: "---"
+        - topics/when-to-use-active-directory.qmd        
 format:
   html:
     theme: cosmo
