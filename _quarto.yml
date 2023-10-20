@@ -23,7 +23,9 @@ website:
         - text: "---"
         - topics/what-is-identity-and-access-management.qmd
         - text: "---"
-        - topics/when-to-use-active-directory.qmd        
+        - topics/when-to-use-active-directory.qmd
+        - text: "---"
+        - topics/when-to-use-active-directory-business-to-consumer.qmd        
 format:
   html:
     theme: cosmo
