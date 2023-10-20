@@ -1,0 +1,18 @@
+---
+title: "When to use Azure Active Directory (AD) Business to Consumer (B2C)?"
+css: ../styles.css
+---
+
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# When to use Azure Active Directory (AD) Business to Consumer (B2C)?
+Azure AD B2C is a type of Azure AD tenant that you use to manage customer identities and their access to your applications.
+
+![Azure Active Directory Business to Consumer.](../images/when-to-use-azure-active-directory-business-to-consumer.png)
+
+- Integrate with external stores.
+- Provide single sign-on access with a user-provided identity.
+- Create a custom-branded identity solution.
+- Use policies to configure user journeys.
+- Use progressive profiling to gradual collect user information.
+- Pass user data to 3rd party for validation.
