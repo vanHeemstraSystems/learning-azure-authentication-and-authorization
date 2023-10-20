@@ -32,7 +32,7 @@
     "href": "topics/what-is-identity-and-access-management.html",
     "title": "What is Identity and Access Management?",
     "section": "",
-    "text": "Source: Authentication and Authorization\n\nWhat is Identity and Access Management?\n\n\n\nidentity and Access Management.\n\n\n\n\n\n\n\n\n\nIf you need this\nUse this\n\n\n\n\nProvide identity and access management for employees in a cloud or hybrid environment.\nAzure Active Directory (Azure AD)\n\n\nCollaborate with guest users and external business partners like suppliers and vendors.\nAzure AD Business to Business (B2B)\n\n\nControl how customers sign up, sign in, and manage their profiles when they use your applications.\nAzure AD Business to Consumer (B2C)"
+    "text": "Source: Authentication and Authorization\n\nWhat is Identity and Access Management?\n\n\n\nIdentity and Access Management.\n\n\n\n\n\n\n\n\n\nIf you need this\nUse this\n\n\n\n\nProvide identity and access management for employees in a cloud or hybrid environment.\nAzure Active Directory (Azure AD)\n\n\nCollaborate with guest users and external business partners like suppliers and vendors.\nAzure AD Business to Business (B2B)\n\n\nControl how customers sign up, sign in, and manage their profiles when they use your applications.\nAzure AD Business to Consumer (B2C)"
   },
   {
     "objectID": "SUMMARY.html",
