@@ -1,3 +1,10 @@
 ---
 title: "What is Identity and Access Management?"
+css: ../styles.css
 ---
+
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# What is Identity and Access Management?
+
+![identity and Access Management.](../images/identity-and-access-management.png)
