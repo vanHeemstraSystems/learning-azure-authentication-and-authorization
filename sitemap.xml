@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/index.html</loc>
-    <lastmod>2023-10-20T14:15:15.467Z</lastmod>
+    <lastmod>2023-10-20T14:16:43.933Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-azure-active-directory.html</loc>
-    <lastmod>2023-10-20T14:15:14.859Z</lastmod>
+    <lastmod>2023-10-20T14:16:43.373Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/what-is-identity-and-access-management.html</loc>
-    <lastmod>2023-10-20T14:15:14.227Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics.html</loc>
-    <lastmod>2023-10-20T14:15:13.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/about.html</loc>
-    <lastmod>2023-10-20T14:15:12.923Z</lastmod>
+    <lastmod>2023-10-20T14:16:42.733Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/follow-the-zero-trust-guidelines.html</loc>
-    <lastmod>2023-10-20T14:15:13.891Z</lastmod>
+    <lastmod>2023-10-20T14:16:42.145Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/about.html</loc>
+    <lastmod>2023-10-20T14:16:41.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics.html</loc>
+    <lastmod>2023-10-20T14:16:41.837Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-azure-active-directory-business-to-business.html</loc>
+    <lastmod>2023-10-20T14:16:42.421Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-azure-active-directory-business-to-consumer.html</loc>
-    <lastmod>2023-10-20T14:15:14.547Z</lastmod>
+    <lastmod>2023-10-20T14:16:43.045Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/SUMMARY.html</loc>
-    <lastmod>2023-10-20T14:15:15.175Z</lastmod>
+    <lastmod>2023-10-20T14:16:43.657Z</lastmod>
   </url>
 </urlset>
