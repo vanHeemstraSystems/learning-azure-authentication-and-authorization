@@ -7,7 +7,7 @@ Source: [Authentication and Authorization](https://microsoftlearning.github.io/A
 
 # What is Identity and Access Management?
 
-![identity and Access Management.](../images/identity-and-access-management.png)
+![Identity and Access Management.](../images/identity-and-access-management.png)
 
 |If you need this|Use this|
 |--|--|
