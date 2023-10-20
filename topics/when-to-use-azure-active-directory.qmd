@@ -11,5 +11,5 @@ Azure AD is the Azure solution for identity and access management. Azure AD is a
 ![Azure Active Directory.](../images/when-to-use-azure-active-directory.png)
 
 - Centralize identity management.
-- establish a single Azure AD instance.
+- Establish a single Azure AD instance.
 - Use Azure AD Connect, or AD Connect cloud sync for hybrid identity sync.
