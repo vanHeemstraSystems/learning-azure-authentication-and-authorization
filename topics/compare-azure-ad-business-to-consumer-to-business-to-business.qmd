@@ -15,4 +15,4 @@ Source: [Authentication and Authorization](https://microsoftlearning.github.io/A
 |Users are managed in a separate Azure AD directory.|-|
 |Users need to be able to self-signup for accounts.|-|
 |Users manage their own profiles.|-|
-|Users can come from SAML and WS-Fed based identity providers.||
+|Users can come from SAML and WS-Fed based identity providers.|-|
