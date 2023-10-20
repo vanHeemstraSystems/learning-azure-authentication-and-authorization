@@ -1,1 +1,17 @@
+---
+title: "Compare Azure AD Business to Consumer to Business to Business"
+css: ../styles.css
+---
 
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# Compare Azure AD Business to Consumer to Business to Business
+
+![Compare Azure AD B2C to B2B.](../images/compare-azure-ad-b2c-to-b2b.png)
+
+|Azure AD B2C|Azure AD B2B|
+|-|Customers cannot be viewed by others.|
+|Users are managed in a separate Azure AD directory.|-|
+|Users need to be able to self-signup for accounts.|-|
+|Users manage their own profiles.|-|
+|Users can come from SAML and WS-Fed based identity providers.||
