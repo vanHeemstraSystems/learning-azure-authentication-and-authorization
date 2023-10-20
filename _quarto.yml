@@ -25,7 +25,9 @@ website:
         - text: "---"
         - topics/when-to-use-azure-active-directory.qmd
         - text: "---"
-        - topics/when-to-use-azure-active-directory-business-to-consumer.qmd        
+        - topics/when-to-use-azure-active-directory-business-to-consumer.qmd
+        - text: "---"
+        - topics/when-to-use-azure-active-directory-business-to-business.qmd        
 format:
   html:
     theme: cosmo
