@@ -8,7 +8,7 @@ Source: [Authentication and Authorization](https://microsoftlearning.github.io/A
 # When to use Identity Protection?
 Identity protection is an Azure AD tool that automates the detection and remediation of identity-based risks.
 
-![Azure Identity Protection.](../images/when-to-use-identitiy-protection.png)
+![Azure Identity Protection.](../images/when-to-use-identity-protection.png)
 
 - Configure the policies and actively review the results.
 - Set the sign-in risk policy to Medium and above and allow self-remediation options.
