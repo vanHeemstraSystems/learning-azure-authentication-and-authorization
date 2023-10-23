@@ -28,18 +28,18 @@
     "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory (AD) Business to Business (B2B)?\nAzure AD B2B enables you to securely collaborate with external parties.\n\n\n\nAzure Active Directory Business to Business.\n\n\n\nIntegrate with identity providers.\nuse conditional access policies to intelligently grant or deny access.\nRequire Multi-Factor Authentication (MFA) for guest users."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "topics/follow-the-zero-trust-guidelines.html",
     "href": "topics/follow-the-zero-trust-guidelines.html",
     "title": "Follow the Zero Trust Guidelines",
     "section": "",
     "text": "Source: Authentication and Authorization\n\nFollow the Zero Trust Guidelines\n\n\n\nZero Trust Guidelines."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
