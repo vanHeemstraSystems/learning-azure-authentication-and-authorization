@@ -1,1 +1,20 @@
+---
+title: "When to use Conditional Access?"
+css: ../styles.css
+---
 
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# When to use Conditional Access?
+Conditional Access is an Azure AD tool that allows (or dienies) access to resources.
+
+![Azure Conditional Access.](../images/when-to-use-conditional-access.png)
+
+- Use to enable multifactor authentication.
+- Require managed devices.
+- Access only approved client applications.
+- Exclude countries from which you never expect sign in.
+- Respond to potentially compromised accounts.
+- Completely block access.
+- Block legacy authentication protocols.
+- Test using the report-only mode.
