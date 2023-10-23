@@ -31,7 +31,9 @@ website:
         - text: "---"
         - topics/compare-azure-ad-business-to-consumer-to-business-to-business.qmd
         - text: "---"
-        - topics/when-to-use-conditional-access.qmd        
+        - topics/when-to-use-conditional-access.qmd
+        - text: "---"
+        - topics/when-to-use-identity-protection.qmd
 format:
   html:
     theme: cosmo
