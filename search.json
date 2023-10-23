@@ -42,6 +42,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "topics/when-to-use-conditional-access.html",
+    "href": "topics/when-to-use-conditional-access.html",
+    "title": "When to use Conditional Access?",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nWhen to use Conditional Access?\nConditional Access is an Azure AD tool that allows (or dienies) access to resources.\n\n\n\nAzure Conditional Access.\n\n\n\nUse to enable multifactor authentication.\nRequire managed devices.\nAccess only approved client applications.\nExclude countries from which you never expect sign in.\nRespond to potentially compromised accounts.\nCompletely block access.\nBlock legacy authentication protocols.\nTest using the report-only mode."
+  },
+  {
     "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
     "href": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
     "title": "Compare Azure AD Business to Consumer to Business to Business",
