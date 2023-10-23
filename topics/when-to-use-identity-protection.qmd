@@ -1,0 +1,17 @@
+---
+title: "When to use Identity Protection?"
+css: ../styles.css
+---
+
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# When to use Identity Protection?
+Identity protection is an Azure AD tool that automates the detection and remediation of identity-based risks.
+
+![Azure Identity Protection.](../images/when-to-use-identitiy-protection.png)
+
+- Configure the policies and actively review the results.
+- Set the sign-in risk policy to Medium and above and allow self-remediation options.
+- Set the user risk policy threshold to High.
+- Allow for excluding users-emergency access or break-glass administrator accounts.
+- Send data to Conditional Access or other Security Information and Event Management (SIEM) tool.
