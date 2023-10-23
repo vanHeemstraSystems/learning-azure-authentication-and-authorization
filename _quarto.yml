@@ -30,6 +30,8 @@ website:
         - topics/when-to-use-azure-active-directory-business-to-business.qmd
         - text: "---"
         - topics/compare-azure-ad-business-to-consumer-to-business-to-business.qmd
+        - text: "---"
+        - topics/when-to-use-conditional-access.qmd        
 format:
   html:
     theme: cosmo
