@@ -2,46 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/index.html</loc>
-    <lastmod>2023-10-23T06:58:37.425Z</lastmod>
+    <lastmod>2023-10-23T09:33:40.056Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-azure-active-directory.html</loc>
-    <lastmod>2023-10-23T06:58:36.713Z</lastmod>
+    <lastmod>2023-10-23T09:33:39.252Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/what-is-identity-and-access-management.html</loc>
-    <lastmod>2023-10-23T06:58:35.905Z</lastmod>
+    <lastmod>2023-10-23T09:33:38.328Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-azure-active-directory-business-to-business.html</loc>
-    <lastmod>2023-10-23T06:58:35.113Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/follow-the-zero-trust-guidelines.html</loc>
-    <lastmod>2023-10-23T06:58:34.321Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/about.html</loc>
-    <lastmod>2023-10-23T06:58:33.141Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics.html</loc>
-    <lastmod>2023-10-23T06:58:33.929Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-identity-protection.html</loc>
+    <lastmod>2023-10-23T09:33:37.420Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-conditional-access.html</loc>
-    <lastmod>2023-10-23T06:58:34.729Z</lastmod>
+    <lastmod>2023-10-23T09:33:36.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics.html</loc>
+    <lastmod>2023-10-23T09:33:35.632Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/about.html</loc>
+    <lastmod>2023-10-23T09:33:34.756Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/follow-the-zero-trust-guidelines.html</loc>
+    <lastmod>2023-10-23T09:33:36.056Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-azure-active-directory-business-to-business.html</loc>
+    <lastmod>2023-10-23T09:33:36.972Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/compare-azure-ad-business-to-consumer-to-business-to-business.html</loc>
-    <lastmod>2023-10-23T06:58:35.517Z</lastmod>
+    <lastmod>2023-10-23T09:33:37.872Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/topics/when-to-use-azure-active-directory-business-to-consumer.html</loc>
-    <lastmod>2023-10-23T06:58:36.333Z</lastmod>
+    <lastmod>2023-10-23T09:33:38.808Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-authentication-and-authorization/SUMMARY.html</loc>
-    <lastmod>2023-10-23T06:58:37.077Z</lastmod>
+    <lastmod>2023-10-23T09:33:39.660Z</lastmod>
   </url>
 </urlset>
