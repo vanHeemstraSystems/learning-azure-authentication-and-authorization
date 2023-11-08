@@ -1,0 +1,15 @@
+---
+title: "Design Managed Identities"
+css: ../styles.css
+---
+
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# Design Managed Identities
+Managed Identities provides an identity for application authentication.
+
+![Azure Identity Protection.](../images/design-managed-identities.png)
+
+- The source is an Azure resource.
+- The target supports Azure Active Directory authentication and Azure RBAC.
+- No credential rotation or certificate management.
