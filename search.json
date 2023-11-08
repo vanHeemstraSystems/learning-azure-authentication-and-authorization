@@ -28,25 +28,18 @@
     "text": "Source: Authentication and Authorization\n\nWhat is Identity and Access Management?\n\n\n\nIdentity and Access Management.\n\n\n\n\n\n\n\n\n\nIf you need this\nUse this\n\n\n\n\nProvide identity and access management for employees in a cloud or hybrid environment.\nAzure Active Directory (Azure AD)\n\n\nCollaborate with guest users and external business partners like suppliers and vendors.\nAzure AD Business to Business (B2B)\n\n\nControl how customers sign up, sign in, and manage their profiles when they use your applications.\nAzure AD Business to Consumer (B2C)"
   },
   {
-    "objectID": "topics/when-to-use-azure-active-directory-business-to-consumer.html",
-    "href": "topics/when-to-use-azure-active-directory-business-to-consumer.html",
-    "title": "When to use Azure Active Directory (AD) Business to Consumer (B2C)?",
+    "objectID": "topics/design-managed-identities.html",
+    "href": "topics/design-managed-identities.html",
+    "title": "Design Managed Identities",
     "section": "",
-    "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory (AD) Business to Consumer (B2C)?\nAzure AD B2C is a type of Azure AD tenant that you use to manage customer identities and their access to your applications.\n\n\n\nAzure Active Directory Business to Consumer.\n\n\n\nIntegrate with external stores.\nProvide single sign-on access with a user-provided identity.\nCreate a custom-branded identity solution.\nUse policies to configure user journeys.\nUse progressive profiling to gradual collect user information.\nPass user data to 3rd party for validation."
+    "text": "Source: Authentication and Authorization\n\nDesign Managed Identities\nManaged Identities provides an identity for application authentication.\n\n\n\nAzure Identity Protection.\n\n\n\nThe source is an Azure resource.\nThe target supports Azure Active Directory authentication and Azure RBAC.\nNo credential rotation or certificate management."
   },
   {
-    "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
-    "href": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
-    "title": "Compare Azure AD Business to Consumer to Business to Business",
+    "objectID": "topics/follow-the-zero-trust-guidelines.html",
+    "href": "topics/follow-the-zero-trust-guidelines.html",
+    "title": "Follow the Zero Trust Guidelines",
     "section": "",
-    "text": "Source: Authentication and Authorization\n\nCompare Azure AD Business to Consumer to Business to Business\n\n\n\nCompare Azure AD B2C to B2B.\n\n\n\n\n\nAzure AD B2C\nAzure AD B2B\n\n\n\n\n-\nCustomers cannot be viewed by others.\n\n\nUsers are managed in a separate Azure AD directory.\n-\n\n\nUsers need to be able to self-signup for accounts.\n-\n\n\nUsers manage their own profiles.\n-\n\n\nUsers can come from SAML and WS-Fed based identity providers.\n-"
-  },
-  {
-    "objectID": "topics/when-to-use-access-reviews.html",
-    "href": "topics/when-to-use-access-reviews.html",
-    "title": "When to use Access Reviews?",
-    "section": "",
-    "text": "Source: Authentication and Authorization\n\nWhen to use Access Reviews?\nAccess Reviews are an Azure Active Directory tool to review user access and ensure they should have continued access to resources.\n\n\n\nAzure Identity Protection.\n\n\n\nDetermine the purpose of the access review.\nEngage the right stakeholders.\nCreate an access review plan.\nDetermine who will conduct the reviews.\nDecide who can self-attest access.\nDetermine what resource types will be reviewed.\nStart small - pilot your plan - keep people informed."
+    "text": "Source: Authentication and Authorization\n\nFollow the Zero Trust Guidelines\n\n\n\nZero Trust Guidelines."
   },
   {
     "objectID": "topics/when-to-use-azure-active-directory.html",
@@ -56,11 +49,25 @@
     "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory?\nAzure AD is the Azure solution for identity and access management. Azure AD is a multitenant, cloud-based directory, and identity management service.\n\n\n\nAzure Active Directory.\n\n\n\nCentralize identity management.\nEstablish a single Azure AD instance.\nUse Azure AD Connect, or AD Connect cloud sync for hybrid identity sync."
   },
   {
-    "objectID": "topics/follow-the-zero-trust-guidelines.html",
-    "href": "topics/follow-the-zero-trust-guidelines.html",
-    "title": "Follow the Zero Trust Guidelines",
+    "objectID": "topics/when-to-use-access-reviews.html",
+    "href": "topics/when-to-use-access-reviews.html",
+    "title": "When to use Access Reviews?",
     "section": "",
-    "text": "Source: Authentication and Authorization\n\nFollow the Zero Trust Guidelines\n\n\n\nZero Trust Guidelines."
+    "text": "Source: Authentication and Authorization\n\nWhen to use Access Reviews?\nAccess Reviews are an Azure Active Directory tool to review user access and ensure they should have continued access to resources.\n\n\n\nAzure Identity Protection.\n\n\n\nDetermine the purpose of the access review.\nEngage the right stakeholders.\nCreate an access review plan.\nDetermine who will conduct the reviews.\nDecide who can self-attest access.\nDetermine what resource types will be reviewed.\nStart small - pilot your plan - keep people informed."
+  },
+  {
+    "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
+    "href": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
+    "title": "Compare Azure AD Business to Consumer to Business to Business",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nCompare Azure AD Business to Consumer to Business to Business\n\n\n\nCompare Azure AD B2C to B2B.\n\n\n\n\n\nAzure AD B2C\nAzure AD B2B\n\n\n\n\n-\nCustomers cannot be viewed by others.\n\n\nUsers are managed in a separate Azure AD directory.\n-\n\n\nUsers need to be able to self-signup for accounts.\n-\n\n\nUsers manage their own profiles.\n-\n\n\nUsers can come from SAML and WS-Fed based identity providers.\n-"
+  },
+  {
+    "objectID": "topics/when-to-use-azure-active-directory-business-to-consumer.html",
+    "href": "topics/when-to-use-azure-active-directory-business-to-consumer.html",
+    "title": "When to use Azure Active Directory (AD) Business to Consumer (B2C)?",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory (AD) Business to Consumer (B2C)?\nAzure AD B2C is a type of Azure AD tenant that you use to manage customer identities and their access to your applications.\n\n\n\nAzure Active Directory Business to Consumer.\n\n\n\nIntegrate with external stores.\nProvide single sign-on access with a user-provided identity.\nCreate a custom-branded identity solution.\nUse policies to configure user journeys.\nUse progressive profiling to gradual collect user information.\nPass user data to 3rd party for validation."
   },
   {
     "objectID": "topics/when-to-use-identity-protection.html",
