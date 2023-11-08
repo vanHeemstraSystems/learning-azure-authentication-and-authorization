@@ -36,6 +36,8 @@ website:
         - topics/when-to-use-identity-protection.qmd
         - text: "---"
         - topics/when-to-use-access-reviews.qmd
+        - text: "---"
+        - topics/design-managed-identities.qmd        
 format:
   html:
     theme: cosmo
