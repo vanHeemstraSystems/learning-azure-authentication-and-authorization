@@ -34,6 +34,8 @@ website:
         - topics/when-to-use-conditional-access.qmd
         - text: "---"
         - topics/when-to-use-identity-protection.qmd
+        - text: "---"
+        - topics/when-to-use-access-reviews.qmd
 format:
   html:
     theme: cosmo
