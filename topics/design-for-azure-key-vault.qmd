@@ -1,1 +1,22 @@
+---
+title: "Design for Azure Key Vault"
+css: ../styles.css
+---
 
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# Design for Azure Key Vault
+When building an app that uses Azure Active Directory to provide sign-in and access tokens for secured endpoints, there are a few good practices you should follow.
+
+Why use Key Vault?
+
+- Separation of sensitive app information from other configuration and code, reducing the risk of accidental leaks.
+- Restricted secret access with access policies tailored to the apps and individuals that need them.
+- Centralized secret storage, allowing required changes to happen in only one place.
+- Access logging and monitoring to help you understand how and when secrets are accessed.
+- Implementing Customer Managed Keys for Azure services.
+
+When to consider multiple Key Vaults:
+
+- RBAC vs Policies
+- Performance
