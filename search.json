@@ -60,7 +60,7 @@
     "href": "topics/select-application-service-principals.html",
     "title": "Select Application Service Principals",
     "section": "",
-    "text": "Source: Authentication and Authorization\n\nSelect Application Service Principals\nThis type of Service Principal is the local representation, or application instance, of a global application object in a single tenant or directory.\n\n\n\nAzure Identity Protection.\n\n\n\nUseful when Managed Identities cannot be used.\nAuthentication is performed by the application using a secret or certificate.\nOften used to authenticate external applications to Azure resources."
+    "text": "Source: Authentication and Authorization\n\nSelect Application Service Principals\nThis type of Service Principal is the local representation, or application instance, of a global application object in a single tenant or directory.\n\n\n\nApplication Service Principals.\n\n\n\nUseful when Managed Identities cannot be used.\nAuthentication is performed by the application using a secret or certificate.\nOften used to authenticate external applications to Azure resources."
   },
   {
     "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
