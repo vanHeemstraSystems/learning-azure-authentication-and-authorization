@@ -32,7 +32,7 @@
     "href": "topics/design-managed-identities.html",
     "title": "Design Managed Identities",
     "section": "",
-    "text": "Source: Authentication and Authorization\n\nDesign Managed Identities\nManaged Identities provides an identity for application authentication.\n\n\n\nAzure Identity Protection.\n\n\n\nThe source is an Azure resource.\nThe target supports Azure Active Directory authentication and Azure RBAC.\nNo credential rotation or certificate management."
+    "text": "Source: Authentication and Authorization\n\nDesign Managed Identities\nManaged Identities provides an identity for application authentication.\n\n\n\nManaged Identities.\n\n\n\nThe source is an Azure resource.\nThe target supports Azure Active Directory authentication and Azure RBAC.\nNo credential rotation or certificate management."
   },
   {
     "objectID": "topics/follow-the-zero-trust-guidelines.html",
