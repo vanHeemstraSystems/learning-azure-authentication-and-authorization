@@ -21,6 +21,13 @@
     "text": "Source: Authentication and Authorization\n\nWhen to use Conditional Access?\nConditional Access is an Azure AD tool that allows (or dienies) access to resources.\n\n\n\nAzure Conditional Access.\n\n\n\nUse to enable multifactor authentication.\nRequire managed devices.\nAccess only approved client applications.\nExclude countries from which you never expect sign in.\nRespond to potentially compromised accounts.\nCompletely block access.\nBlock legacy authentication protocols.\nTest using the report-only mode."
   },
   {
+    "objectID": "topics/design-for-azure-key-vault.html",
+    "href": "topics/design-for-azure-key-vault.html",
+    "title": "Design for Azure Key Vault",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nDesign for Azure Key Vault\nWhen building an app that uses Azure Active Directory to provide sign-in and access tokens for secured endpoints, there are a few good practices you should follow.\nWhy use Key Vault?\n\nSeparation of sensitive app information from other configuration and code, reducing the risk of accidental leaks.\nRestricted secret access with access policies tailored to the apps and individuals that need them.\nCentralized secret storage, allowing required changes to happen in only one place.\nAccess logging and monitoring to help you understand how and when secrets are accessed.\nImplementing Customer Managed Keys for Azure services.\n\nWhen to consider multiple Key Vaults:\n\nRBAC vs Policies\nPerformance"
+  },
+  {
     "objectID": "topics/when-to-use-identity-protection.html",
     "href": "topics/when-to-use-identity-protection.html",
     "title": "When to use Identity Protection?",
