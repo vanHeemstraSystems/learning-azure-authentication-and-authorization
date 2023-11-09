@@ -63,6 +63,13 @@
     "text": "Source: Authentication and Authorization\n\nWhen to use Access Reviews?\nAccess Reviews are an Azure Active Directory tool to review user access and ensure they should have continued access to resources.\n\n\n\nAccess Reviews.\n\n\n\nDetermine the purpose of the access review.\nEngage the right stakeholders.\nCreate an access review plan.\nDetermine who will conduct the reviews.\nDecide who can self-attest access.\nDetermine what resource types will be reviewed.\nStart small - pilot your plan - keep people informed."
   },
   {
+    "objectID": "topics/best-practices-for-requesting-permissions.html",
+    "href": "topics/best-practices-for-requesting-permissions.html",
+    "title": "Best Practices for Requesting Permissions",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nBest Practices for Requesting Permissions\nWhen building an app that uses Azure Active Directory to provide sign-in and access tokens for secured endpoints, there are a few good practices you should follow.\n\n\n\nRequesting Permissions."
+  },
+  {
     "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
     "href": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
     "title": "Compare Azure AD Business to Consumer to Business to Business",
