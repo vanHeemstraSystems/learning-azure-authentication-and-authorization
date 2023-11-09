@@ -40,6 +40,8 @@ website:
         - topics/design-managed-identities.qmd
         - text: "---"
         - topics/select-application-service-principals.qmd
+        - text: "---"
+        - topics/best-practices-for-requesting-permissions.qmd        
 
 format:
   html:
