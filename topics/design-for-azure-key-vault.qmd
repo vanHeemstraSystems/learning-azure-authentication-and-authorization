@@ -8,6 +8,8 @@ Source: [Authentication and Authorization](https://microsoftlearning.github.io/A
 # Design for Azure Key Vault
 When building an app that uses Azure Active Directory to provide sign-in and access tokens for secured endpoints, there are a few good practices you should follow.
 
+![Azure Key Vault.](../images/design-for-azure-key-vault.png)
+
 Why use Key Vault?
 
 - Separation of sensitive app information from other configuration and code, reducing the risk of accidental leaks.
