@@ -8,7 +8,7 @@ Source: [Authentication and Authorization](https://microsoftlearning.github.io/A
 # When to use Access Reviews?
 Access Reviews are an Azure Active Directory tool to review user access and ensure they should have continued access to resources.
 
-![Azure Identity Protection.](../images/when-to-use-access-reviews.png)
+![Access Reviews.](../images/when-to-use-access-reviews.png)
 
 - Determine the purpose of the access review.
 - Engage the right stakeholders.
