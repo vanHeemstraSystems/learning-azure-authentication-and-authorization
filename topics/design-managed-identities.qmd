@@ -8,7 +8,7 @@ Source: [Authentication and Authorization](https://microsoftlearning.github.io/A
 # Design Managed Identities
 Managed Identities provides an identity for application authentication.
 
-![Azure Identity Protection.](../images/design-managed-identities.png)
+![Managed Identities.](../images/design-managed-identities.png)
 
 - The source is an Azure resource.
 - The target supports Azure Active Directory authentication and Azure RBAC.
