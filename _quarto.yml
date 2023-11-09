@@ -44,6 +44,8 @@ website:
         - topics/best-practices-for-requesting-permissions.qmd 
         - text: "---"
         - topics/design-for-azure-key-vault.qmd
+        - text: "---"
+        - topics/case-study-authentication-and-authorization.qmd        
 
 format:
   html:
