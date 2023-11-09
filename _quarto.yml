@@ -37,7 +37,10 @@ website:
         - text: "---"
         - topics/when-to-use-access-reviews.qmd
         - text: "---"
-        - topics/design-managed-identities.qmd        
+        - topics/design-managed-identities.qmd
+        - text: "---"
+        - topics/select-application-service-principals.qmd
+
 format:
   html:
     theme: cosmo
