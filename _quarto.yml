@@ -41,7 +41,9 @@ website:
         - text: "---"
         - topics/select-application-service-principals.qmd
         - text: "---"
-        - topics/best-practices-for-requesting-permissions.qmd        
+        - topics/best-practices-for-requesting-permissions.qmd 
+        - text: "---"
+        - topics/design-for-azure-key-vault.qmd
 
 format:
   html:
