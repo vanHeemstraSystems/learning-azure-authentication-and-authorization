@@ -49,18 +49,18 @@
     "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory?\nAzure AD is the Azure solution for identity and access management. Azure AD is a multitenant, cloud-based directory, and identity management service.\n\n\n\nAzure Active Directory.\n\n\n\nCentralize identity management.\nEstablish a single Azure AD instance.\nUse Azure AD Connect, or AD Connect cloud sync for hybrid identity sync."
   },
   {
-    "objectID": "topics/when-to-use-access-reviews.html",
-    "href": "topics/when-to-use-access-reviews.html",
-    "title": "When to use Access Reviews?",
-    "section": "",
-    "text": "Source: Authentication and Authorization\n\nWhen to use Access Reviews?\nAccess Reviews are an Azure Active Directory tool to review user access and ensure they should have continued access to resources.\n\n\n\nAccess Reviews.\n\n\n\nDetermine the purpose of the access review.\nEngage the right stakeholders.\nCreate an access review plan.\nDetermine who will conduct the reviews.\nDecide who can self-attest access.\nDetermine what resource types will be reviewed.\nStart small - pilot your plan - keep people informed."
-  },
-  {
     "objectID": "topics/select-application-service-principals.html",
     "href": "topics/select-application-service-principals.html",
     "title": "Select Application Service Principals",
     "section": "",
     "text": "Source: Authentication and Authorization\n\nSelect Application Service Principals\nThis type of Service Principal is the local representation, or application instance, of a global application object in a single tenant or directory.\n\n\n\nApplication Service Principals.\n\n\n\nUseful when Managed Identities cannot be used.\nAuthentication is performed by the application using a secret or certificate.\nOften used to authenticate external applications to Azure resources."
+  },
+  {
+    "objectID": "topics/when-to-use-access-reviews.html",
+    "href": "topics/when-to-use-access-reviews.html",
+    "title": "When to use Access Reviews?",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nWhen to use Access Reviews?\nAccess Reviews are an Azure Active Directory tool to review user access and ensure they should have continued access to resources.\n\n\n\nAccess Reviews.\n\n\n\nDetermine the purpose of the access review.\nEngage the right stakeholders.\nCreate an access review plan.\nDetermine who will conduct the reviews.\nDecide who can self-attest access.\nDetermine what resource types will be reviewed.\nStart small - pilot your plan - keep people informed."
   },
   {
     "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
