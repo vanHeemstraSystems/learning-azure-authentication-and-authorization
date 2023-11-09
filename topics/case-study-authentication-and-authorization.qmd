@@ -1,1 +1,14 @@
+---
+title: "Case Study - Authentication and Authorization"
+css: ../styles.css
+---
 
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# Case Study - Authentication and Authorization
+
+![Case Study - Authentication and Authorization.](../images/case-study-authentication-and-authorization.png)
+
+1. A company acquisition will add 75 employees - new user accounts.
+2. New employees are in different geographic regions - new identity protection policies.
+3. New application with an SQL database - access solution.
