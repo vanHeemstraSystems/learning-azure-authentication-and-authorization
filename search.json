@@ -42,6 +42,13 @@
     "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory (AD) Business to Consumer (B2C)?\nAzure AD B2C is a type of Azure AD tenant that you use to manage customer identities and their access to your applications.\n\n\n\nAzure Active Directory Business to Consumer.\n\n\n\nIntegrate with external stores.\nProvide single sign-on access with a user-provided identity.\nCreate a custom-branded identity solution.\nUse policies to configure user journeys.\nUse progressive profiling to gradual collect user information.\nPass user data to 3rd party for validation."
   },
   {
+    "objectID": "topics/case-study-authentication-and-authorization.html",
+    "href": "topics/case-study-authentication-and-authorization.html",
+    "title": "Case Study - Authentication and Authorization",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nCase Study - Authentication and Authorization\n\n\n\nCase Study - Authentication and Authorization.\n\n\n\nA company acquisition will add 75 employees - new user accounts.\nNew employees are in different geographic regions - new identity protection policies.\nNew application with an SQL database - access solution."
+  },
+  {
     "objectID": "topics/when-to-use-azure-active-directory.html",
     "href": "topics/when-to-use-azure-active-directory.html",
     "title": "When to use Azure Active Directory?",
