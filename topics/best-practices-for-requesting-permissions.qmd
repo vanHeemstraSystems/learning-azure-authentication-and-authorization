@@ -1,1 +1,11 @@
+---
+title: "Best Practices for Requesting Permissions"
+css: ../styles.css
+---
 
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# Best Practices for Requesting Permissions
+When building an app that uses Azure Active Directory to provide sign-in and access tokens for secured endpoints, there are a few good practices you should follow.
+
+![Requesting Permissions.](../images/best-practices-for-requesting-permissions.png)
