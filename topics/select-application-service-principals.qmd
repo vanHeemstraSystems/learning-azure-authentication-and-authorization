@@ -1,1 +1,15 @@
+---
+title: "Select Application Service Principals"
+css: ../styles.css
+---
 
+Source: [Authentication and Authorization](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/07-Access.html)
+
+# Select Application Service Principals
+This type of Service Principal is the local representation, or application instance, of a global application object in a single tenant or directory.
+
+![Azure Identity Protection.](../images/select-application-service-principals.png)
+
+- Useful when Managed Identities cannot be used.
+- Authentication is performed by the application using a secret or certificate.
+- Often used to authenticate external applications to Azure resources.
