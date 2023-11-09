@@ -42,25 +42,11 @@
     "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory (AD) Business to Consumer (B2C)?\nAzure AD B2C is a type of Azure AD tenant that you use to manage customer identities and their access to your applications.\n\n\n\nAzure Active Directory Business to Consumer.\n\n\n\nIntegrate with external stores.\nProvide single sign-on access with a user-provided identity.\nCreate a custom-branded identity solution.\nUse policies to configure user journeys.\nUse progressive profiling to gradual collect user information.\nPass user data to 3rd party for validation."
   },
   {
-    "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
-    "href": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
-    "title": "Compare Azure AD Business to Consumer to Business to Business",
+    "objectID": "topics/when-to-use-azure-active-directory.html",
+    "href": "topics/when-to-use-azure-active-directory.html",
+    "title": "When to use Azure Active Directory?",
     "section": "",
-    "text": "Source: Authentication and Authorization\n\nCompare Azure AD Business to Consumer to Business to Business\n\n\n\nCompare Azure AD B2C to B2B.\n\n\n\n\n\nAzure AD B2C\nAzure AD B2B\n\n\n\n\n-\nCustomers cannot be viewed by others.\n\n\nUsers are managed in a separate Azure AD directory.\n-\n\n\nUsers need to be able to self-signup for accounts.\n-\n\n\nUsers manage their own profiles.\n-\n\n\nUsers can come from SAML and WS-Fed based identity providers.\n-"
-  },
-  {
-    "objectID": "topics/best-practices-for-requesting-permissions.html",
-    "href": "topics/best-practices-for-requesting-permissions.html",
-    "title": "Best Practices for Requesting Permissions",
-    "section": "",
-    "text": "Source: Authentication and Authorization\n\nBest Practices for Requesting Permissions\nWhen building an app that uses Azure Active Directory to provide sign-in and access tokens for secured endpoints, there are a few good practices you should follow.\n\n\n\nRequesting Permissions."
-  },
-  {
-    "objectID": "topics/when-to-use-access-reviews.html",
-    "href": "topics/when-to-use-access-reviews.html",
-    "title": "When to use Access Reviews?",
-    "section": "",
-    "text": "Source: Authentication and Authorization\n\nWhen to use Access Reviews?\nAccess Reviews are an Azure Active Directory tool to review user access and ensure they should have continued access to resources.\n\n\n\nAccess Reviews.\n\n\n\nDetermine the purpose of the access review.\nEngage the right stakeholders.\nCreate an access review plan.\nDetermine who will conduct the reviews.\nDecide who can self-attest access.\nDetermine what resource types will be reviewed.\nStart small - pilot your plan - keep people informed."
+    "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory?\nAzure AD is the Azure solution for identity and access management. Azure AD is a multitenant, cloud-based directory, and identity management service.\n\n\n\nAzure Active Directory.\n\n\n\nCentralize identity management.\nEstablish a single Azure AD instance.\nUse Azure AD Connect, or AD Connect cloud sync for hybrid identity sync."
   },
   {
     "objectID": "topics/select-application-service-principals.html",
@@ -70,11 +56,25 @@
     "text": "Source: Authentication and Authorization\n\nSelect Application Service Principals\nThis type of Service Principal is the local representation, or application instance, of a global application object in a single tenant or directory.\n\n\n\nApplication Service Principals.\n\n\n\nUseful when Managed Identities cannot be used.\nAuthentication is performed by the application using a secret or certificate.\nOften used to authenticate external applications to Azure resources."
   },
   {
-    "objectID": "topics/when-to-use-azure-active-directory.html",
-    "href": "topics/when-to-use-azure-active-directory.html",
-    "title": "When to use Azure Active Directory?",
+    "objectID": "topics/when-to-use-access-reviews.html",
+    "href": "topics/when-to-use-access-reviews.html",
+    "title": "When to use Access Reviews?",
     "section": "",
-    "text": "Source: Authentication and Authorization\n\nWhen to use Azure Active Directory?\nAzure AD is the Azure solution for identity and access management. Azure AD is a multitenant, cloud-based directory, and identity management service.\n\n\n\nAzure Active Directory.\n\n\n\nCentralize identity management.\nEstablish a single Azure AD instance.\nUse Azure AD Connect, or AD Connect cloud sync for hybrid identity sync."
+    "text": "Source: Authentication and Authorization\n\nWhen to use Access Reviews?\nAccess Reviews are an Azure Active Directory tool to review user access and ensure they should have continued access to resources.\n\n\n\nAccess Reviews.\n\n\n\nDetermine the purpose of the access review.\nEngage the right stakeholders.\nCreate an access review plan.\nDetermine who will conduct the reviews.\nDecide who can self-attest access.\nDetermine what resource types will be reviewed.\nStart small - pilot your plan - keep people informed."
+  },
+  {
+    "objectID": "topics/best-practices-for-requesting-permissions.html",
+    "href": "topics/best-practices-for-requesting-permissions.html",
+    "title": "Best Practices for Requesting Permissions",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nBest Practices for Requesting Permissions\nWhen building an app that uses Azure Active Directory to provide sign-in and access tokens for secured endpoints, there are a few good practices you should follow.\n\n\n\nRequesting Permissions."
+  },
+  {
+    "objectID": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
+    "href": "topics/compare-azure-ad-business-to-consumer-to-business-to-business.html",
+    "title": "Compare Azure AD Business to Consumer to Business to Business",
+    "section": "",
+    "text": "Source: Authentication and Authorization\n\nCompare Azure AD Business to Consumer to Business to Business\n\n\n\nCompare Azure AD B2C to B2B.\n\n\n\n\n\nAzure AD B2C\nAzure AD B2B\n\n\n\n\n-\nCustomers cannot be viewed by others.\n\n\nUsers are managed in a separate Azure AD directory.\n-\n\n\nUsers need to be able to self-signup for accounts.\n-\n\n\nUsers manage their own profiles.\n-\n\n\nUsers can come from SAML and WS-Fed based identity providers.\n-"
   },
   {
     "objectID": "topics/follow-the-zero-trust-guidelines.html",
